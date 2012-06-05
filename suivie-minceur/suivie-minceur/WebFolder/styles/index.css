@@ -133,8 +133,8 @@
 }
 
 #container2 {
-	 width: 1024px;
-	 height: 550px;
+	 width: 1020px;
+	 height: 483px;
 	 top: 128px;
 	 left: 15px;
 	
@@ -155,7 +155,7 @@
 #container2 #container3 {
 	 width: 476px;
 	 height: 417px;
-	 top: 97px;
+	 top: 28px;
 	 left: 273px;
 	
 	 position: absolute;
