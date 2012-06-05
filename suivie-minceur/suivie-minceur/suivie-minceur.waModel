@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="suivie-minceur" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<dataClasses collectionName="UserCollection" className="User" uuid="6C403B17A62B7F4E80FD80D0F41AD037" tablePos="1">
+
+	<extraProperties ____objectunic="true" panelColor="#C3D69B">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="25" Y="20"/>
+
+		</panel>
+
+	</extraProperties>
+
+	<attributes name="ID" kind="storage" type="long" uuid="E2C0D22EE9B1EB4C85194F3C2295EFAD" fieldPos="1" autosequence="true" unique="true" primKey="true"/>
+
+	<attributes name="nom" scope="public" uuid="DFCF686F5EB99D45B5B3E4904D8A9247" fieldPos="2" type="string" kind="storage"/>
+
+	<attributes name="prenom" scope="public" uuid="D39EEB6D56116B40B8728A051F057E3D" fieldPos="3" type="string" kind="storage"/>
+
+	<attributes name="email" scope="public" uuid="E52B4FBB9BC4DB4CBCAB7FF7569605FA" fieldPos="4" type="string" kind="storage"/>
+
+	<attributes name="password" scope="public" uuid="80D3EDF51C3837488EEF5C6532F1846D" fieldPos="5" type="string" kind="storage"/>
+
+</dataClasses>
+</EntityModelCatalog>
