@@ -1,0 +1,110 @@
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Opening the solution
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Opening the users and groups directory
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Users and groups directory opened (duration: 50 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the project
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the database
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Database opened (duration: 29 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project opened (duration: 38 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the project
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the database
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Database opened (duration: 8 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project opened (duration: 10 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Solution opened (duration: 194 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Starting the solution
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the project
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the HTTP server
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - HTTP server started (duration: 45 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project started (duration: 97 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the project
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the HTTP server
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - HTTP server started (duration: 56 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project started (duration: 84 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Executing the bootstrap(s)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Bootstrap(s) executed (duration: 41 ms)
+2012-06-05 13:09:20 [com.wakanda-software.suivie-minceur] INFO - Solution started (duration: 225 ms)
+2012-06-05 13:16:56 [com.wakanda-software.suivie-minceur] INFO - Stopping the solution
+2012-06-05 13:16:56 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Stopping the project
+2012-06-05 13:16:58 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project stopped (duration: 2077 ms)
+2012-06-05 13:16:58 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Stopping the project
+2012-06-05 13:17:00 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project stopped (duration: 2042 ms)
+2012-06-05 13:17:00 [com.wakanda-software.suivie-minceur] INFO - Solution stopped (duration: 4128 ms)
+2012-06-05 13:17:00 [com.wakanda-software.suivie-minceur] INFO - Closing the solution
+2012-06-05 13:17:00 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Closing the project
+2012-06-05 13:17:00 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Closing the database
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Database closed (duration: 426 ms)
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project closed (duration: 456 ms)
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Closing the project
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Closing the database
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Database closed (duration: 436 ms)
+2012-06-05 13:17:01 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project closed (duration: 551 ms)
+2012-06-05 13:17:02 [com.wakanda-software.suivie-minceur] INFO - Solution closed (duration: 1509 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur] INFO - Opening the solution
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur] INFO - Opening the users and groups directory
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur] INFO - Users and groups directory opened (duration: 50 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the project
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the database
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Database opened (duration: 8 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project opened (duration: 17 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the project
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the database
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Database opened (duration: 8 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project opened (duration: 11 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur] INFO - Solution opened (duration: 135 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur] INFO - Starting the solution
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the project
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the HTTP server
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - HTTP server started (duration: 54 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project started (duration: 85 ms)
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the project
+2012-06-05 13:17:12 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the HTTP server
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - HTTP server started (duration: 53 ms)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project started (duration: 81 ms)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Executing the bootstrap(s)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Bootstrap(s) executed (duration: 17 ms)
+2012-06-05 13:17:13 [com.wakanda-software.suivie-minceur] INFO - Solution started (duration: 185 ms)
+2012-06-05 13:19:49 [com.wakanda-software.suivie-minceur] INFO - Stopping the solution
+2012-06-05 13:19:49 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Stopping the project
+2012-06-05 13:19:51 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project stopped (duration: 2052 ms)
+2012-06-05 13:19:51 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Stopping the project
+2012-06-05 13:19:53 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project stopped (duration: 2038 ms)
+2012-06-05 13:19:53 [com.wakanda-software.suivie-minceur] INFO - Solution stopped (duration: 4098 ms)
+2012-06-05 13:19:53 [com.wakanda-software.suivie-minceur] INFO - Closing the solution
+2012-06-05 13:19:53 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Closing the project
+2012-06-05 13:19:53 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Closing the database
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Database closed (duration: 543 ms)
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project closed (duration: 544 ms)
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Closing the project
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Closing the database
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Database closed (duration: 621 ms)
+2012-06-05 13:19:54 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project closed (duration: 807 ms)
+2012-06-05 13:19:55 [com.wakanda-software.suivie-minceur] INFO - Solution closed (duration: 2111 ms)
+2012-06-05 13:20:05 [com.wakanda-software.suivie-minceur] INFO - Opening the solution
+2012-06-05 13:20:05 [com.wakanda-software.suivie-minceur] INFO - Opening the users and groups directory
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur] INFO - Users and groups directory opened (duration: 46 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the project
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Opening the database
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Database opened (duration: 9 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project opened (duration: 18 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the project
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Opening the database
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Database opened (duration: 7 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur] INFO - Solution opened (duration: 129 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur] INFO - Starting the solution
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the project
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Starting the HTTP server
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - HTTP server started (duration: 48 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Project started (duration: 76 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the project
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Starting the HTTP server
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - HTTP server started (duration: 49 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Project started (duration: 76 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Executing the bootstrap(s)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.suivie-minceur] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-06-05 13:20:06 [com.wakanda-software.suivie-minceur] INFO - Solution started (duration: 163 ms)

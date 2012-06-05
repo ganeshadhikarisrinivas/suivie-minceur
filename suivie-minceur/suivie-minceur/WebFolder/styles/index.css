@@ -7,10 +7,339 @@
 	 width: 1024px;
 	 height: 80px;
 	 top: 11px;
-	 left: 18px;
+	 left: 15px;
 	
 	 position: absolute;
 	 background-color: rgb(255, 170, 255);
+	 
+}
+
+#container1 #button1 {
+	 width: 81px;
+	 height: 29px;
+	 top: 39px;
+	 left: 928px;
+	
+	 position: absolute;
+	 
+}
+
+#label1 {
+	 width: 75px;
+	 height: 15px;
+	 top: 15px;
+	 left: 806px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #textField1 {
+	 width: 113px;
+	 height: 37px;
+	 top: 35px;
+	 left: 787px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #label2 {
+	 width: 36px;
+	 height: 15px;
+	 top: 15px;
+	 left: 684.5px;
+	
+	 position: absolute;
+	 text-align: center;
+	 
+}
+
+#container1 #textField2 {
+	 width: 113px;
+	 height: 37px;
+	 top: 35px;
+	 left: 646px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #textField2 #container1 {
+	 width: 1024px;
+	 height: 80px;
+	 top: 11px;
+	 left: 15px;
+	
+	 position: absolute;
+	 
+}
+
+#label2 {
+	 width: 36px;
+	 height: 15px;
+	 top: 15px;
+	 left: 684.5px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #richText1 {
+	 width: 296px;
+	 height: 53px;
+	 top: 13px;
+	 left: 16px;
+	
+	 position: absolute;
+	 color: rgb(191, 0, 191);
+	 font-weight: bold;
+	 font-size: 35px;
+	 text-shadow: rgb(255, 255, 255) -1px 1px 2px;
+	 
+}
+
+#errorDiv1 {
+	 width: 1024px;
+	 height: 20px;
+	 top: 100px;
+	 left: 15px;
+	
+	 position: absolute;
+	 text-align: center;
+	 font-size: 12px;
+	 color: rgb(255, 0, 0);
+	 border-top-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px;
+	 border-right-width: 1px;
+	 border-top-style: none;
+	 border-bottom-style: none;
+	 border-left-style: none;
+	 border-right-style: none;
+	 border-top-left-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	 border-top-right-radius: 0px;
+	-moz-border-radius-topright: 0px;
+	 border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	 border-bottom-left-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	 border-top-color: rgb(127, 127, 127);
+	 border-right-color: rgb(127, 127, 127);
+	 border-bottom-color: rgb(127, 127, 127);
+	 border-left-color: rgb(127, 127, 127);
+	 
+}
+
+#container2 {
+	 width: 1024px;
+	 height: 550px;
+	 top: 128px;
+	 left: 15px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #label1 {
+	 width: 75px;
+	 height: 15px;
+	 top: 15px;
+	 left: 806px;
+	
+	 text-align: center;
+	 
+}
+
+#container2 #container3 {
+	 width: 476px;
+	 height: 417px;
+	 top: 97px;
+	 left: 273px;
+	
+	 position: absolute;
+	 background-color: rgb(255, 170, 255);
+	 
+}
+
+#container2 #container3 #label3 {
+	 width: 75px;
+	 height: 24px;
+	 top: 6px;
+	 left: 201.5px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #container3 #textField3 {
+	 width: 300px;
+	 height: 40px;
+	 top: 35px;
+	 left: 89px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #container3 #label4 {
+	 width: 75px;
+	 height: 24px;
+	 top: 81px;
+	 left: 201.5px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #container3 #textField4 {
+	 width: 300px;
+	 height: 40px;
+	 top: 110px;
+	 left: 89px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #container3 #label5 {
+	 width: 75px;
+	 height: 24px;
+	 top: 156px;
+	 left: 201.5px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #container3 #textField5 {
+	 width: 300px;
+	 height: 40px;
+	 top: 185px;
+	 left: 89px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #container3 #label6 {
+	 width: 121px;
+	 height: 24px;
+	 top: 231px;
+	 left: 178.5px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #container3 #textField6 {
+	 width: 300px;
+	 height: 40px;
+	 top: 260px;
+	 left: 89px;
+	
+	 position: absolute;
+	 
+}
+
+#container3 #textField6 {
+	 width: 300px;
+	 height: 40px;
+	 top: 260px;
+	 left: 89px;
+	
+	 font-size: 20px;
+	 
+}
+
+#container3 #textField5 {
+	 width: 300px;
+	 height: 40px;
+	 top: 185px;
+	 left: 89px;
+	
+	 font-size: 20px;
+	 
+}
+
+#container3 #textField4 {
+	 width: 300px;
+	 height: 40px;
+	 top: 110px;
+	 left: 89px;
+	
+	 font-size: 20px;
+	 
+}
+
+#container3 #textField3 {
+	 width: 300px;
+	 height: 40px;
+	 top: 35px;
+	 left: 89px;
+	
+	 font-size: 20px;
+	 
+}
+
+#container3 #label6 {
+	 width: 121px;
+	 height: 24px;
+	 top: 231px;
+	 left: 178.5px;
+	
+	 text-align: center;
+	 font-size: 20px;
+	 
+}
+
+#container3 #label5 {
+	 width: 75px;
+	 height: 24px;
+	 top: 156px;
+	 left: 201.5px;
+	
+	 text-align: center;
+	 font-size: 20px;
+	 
+}
+
+#container3 #label4 {
+	 width: 75px;
+	 height: 24px;
+	 top: 81px;
+	 left: 201.5px;
+	
+	 text-align: center;
+	 font-size: 20px;
+	 
+}
+
+#container3 #label3 {
+	 width: 75px;
+	 height: 24px;
+	 top: 6px;
+	 left: 201.5px;
+	
+	 text-align: center;
+	 font-size: 20px;
+	 
+}
+
+#container2 #container3 #button2 {
+	 width: 406px;
+	 height: 62px;
+	 top: 325px;
+	 left: 34px;
+	
+	 position: absolute;
+	 font-size: 35px;
+	 background-color: rgb(170, 255, 86);
 	 
 }
 
