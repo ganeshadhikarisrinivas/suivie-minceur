@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><directory>	<user ID="6B08AD0A50CF4847AB348467A89B847D" name="admin" fullName="" password=""/>	<group ID="01000000000000000000000000000000" name="Admin">		<include user="admin" ID="6B08AD0A50CF4847AB348467A89B847D"/>	</group>	<group ID="02000000000000000000000000000000" name="Debugger">		<include user="admin" ID="6B08AD0A50CF4847AB348467A89B847D"/>	</group></directory>
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+
+<user ID="6B08AD0A50CF4847AB348467A89B847D" name="admin" fullName="" password=""/>
+
+<user ID="D9E5476181036E49A2AE663B6289F723" name="julien" fullName="Julien Cokelaere" password="8b36241e6c92cb688e5b04ce0b82523c" thumbnailPath="julien.jpg"/>
+
+<user ID="FC262AB8FB5A9143950FC3399F667B4A" name="utilisateur" fullName="David Robardey" password="9fb7761db5ef566093d87bc7e8fd1130"/>
+
+<group ID="01000000000000000000000000000000" name="Admin">
+
+	<include user="admin" ID="6B08AD0A50CF4847AB348467A89B847D"/>
+
+	<include user="julien" ID="D9E5476181036E49A2AE663B6289F723"/>
+
+	<include group="Debugger" groupID="02000000000000000000000000000000"/>
+</group>
+
+<group ID="02000000000000000000000000000000" name="Debugger">
+
+	<include user="admin" ID="6B08AD0A50CF4847AB348467A89B847D"/>
+
+	<include user="julien" ID="D9E5476181036E49A2AE663B6289F723"/>
+
+	<include group="Manager" groupID="078BDB8431D6C141863A50AD2EBA541E"/>
+</group>
+
+<group ID="078BDB8431D6C141863A50AD2EBA541E" name="Manager">
+
+	<include group="Validator" groupID="B3F9984B3BEAF042A3434DFE3496339C"/>
+
+</group>
+
+<group ID="B3F9984B3BEAF042A3434DFE3496339C" name="Validator">
+
+	<include group="ContentUser" groupID="2101054A9ADAA44B86AEF4237B46E562"/>
+
+</group>
+
+<group ID="2101054A9ADAA44B86AEF4237B46E562" name="ContentUser">
+
+	<include group="User" groupID="E9C1A34482810741955170DD2C085EF2"/>
+
+</group>
+
+<group ID="E9C1A34482810741955170DD2C085EF2" name="User">
+
+	<include group="Guess" groupID="B24E92525CCC0E44A0DB9AC52C98C5FF"/>
+
+	<include user="utilisateur" ID="FC262AB8FB5A9143950FC3399F667B4A"/>
+
+</group>
+
+<group ID="B24E92525CCC0E44A0DB9AC52C98C5FF" name="Guess"/>
+</directory>
